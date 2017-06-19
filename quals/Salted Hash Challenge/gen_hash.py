@@ -3,7 +3,8 @@ import hashlib
 user = "john"
 password = "moreThan10CharPassword"
 
-password_hash = "30aa9eb50b881f63ae436817249386a221cc9df973a19d2935ed9488a3c25fde"
+password_hash = "70e0f6cba9351375d1ec3440c6e2a5e41389d92c632baa1a28ca3d930c4a5a05"
+print(len(password_hash))
 # session = "user={}|pass={}|admin={}".format(user, password_hash, 1)
 # print(session)
 
