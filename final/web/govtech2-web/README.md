@@ -1,6 +1,14 @@
 # Writeup for GovTech's level 2 challenge - TicTacToe 
 URL: http://govtech-challenge.com/challenge/challenge1-second-puzzle.php?firstchallenge=base4 
 
+The first part of the challenge contain the brief explanation of how the flag is encoded.
+![first_part](https://github.com/0x0ffff5ec/crossctf-2017/blob/master/final/web/govtech2-web/screenshots/first-part.PNG")
+
+The second part of the challenge contain the encoded flag
+![second_part](https://github.com/0x0ffff5ec/crossctf-2017/blob/master/final/web/govtech2-web/screenshots/second-part.PNG")
+
+The objective of this challenge is to decode the flag encoded in the TicTacToe. 
+
 ## Description:
 Web based "crypto" challenge.   
 
