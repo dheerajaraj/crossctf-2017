@@ -10,6 +10,7 @@ We can infer that this might be an encoding of base4
 lets confirm our suspicion by inserting "f".
 
 ![Screenshot2][screenshot2]
+
 From this, we can infer that 4 letters correspond to a single ascii character.
 With some python scripting, we can confirm our hypothesis.
 ```python
