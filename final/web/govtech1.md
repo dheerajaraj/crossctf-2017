@@ -2,6 +2,7 @@
 
 # Govtech1
 ![Screenshot1][screenshot1]
+
 The above screenshot shows a series of letters that only contain ABCD.
 We can infer that this might be an encoding of base4
 > A = 00, B = 01, C = 10, D = 11
