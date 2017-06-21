@@ -50,6 +50,6 @@ print "decoded: ", tmp
 ```
 The decoded message is `fLaG{tech_Base4}`
 
-[screenshot1]: https://raw.githubusercontent.com/0x0ffff5ec/crossctf-2017/master/final/web/screenshots/govtech-web1_i.JPG
+[screenshot1]: screenshots/govtech-web1_i.JPG
 
-[screenshot2]: https://github.com/0x0ffff5ec/crossctf-2017/raw/master/final/web/screenshots/govtech-web1_ii.JPG
+[screenshot2]: screenshots/govtech-web1_ii.JPG
