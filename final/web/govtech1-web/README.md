@@ -1,6 +1,7 @@
-# Dillinger
-
 # Govtech1
+
+Link: http://govtech-challenge.com/challenge/challenge1-first-puzzle.php
+
 ![Screenshot1][screenshot1]
 
 The above screenshot shows a series of letters that only contain ABCD.
