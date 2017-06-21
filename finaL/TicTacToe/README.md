@@ -1,11 +1,11 @@
-#Writeup for GovTech's level 2 challenge - TicTacToe 
+# Writeup for GovTech's level 2 challenge - TicTacToe 
 
-##Description:
+## Description:
 Web based "crypto" challenge.   
 
 P.S. A FUCK UP CHALLENGE FOR PEOPLE WHO ARE TOO FREEEEEE. JKJK 
 
-##STEPS
+## STEPS
 FOR EACH OF THE PICTURE
 1. Convert each of the number to its binary i.e. 1 -> 0001, 4 -> 0100, 3 -> 0011 
 2. Using the truth table, perform the operation 
